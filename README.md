@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/simonthode/social-cultural-analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+View a map [here](https://github.com/simonthode/social-cultural-analysis/blob/master/maps/Northland_Deprivation.png)
 
 ### Markdown
 
