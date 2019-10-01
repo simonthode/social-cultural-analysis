@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/simonthode/social-cultural
 
 View a map [here](https://github.com/simonthode/social-cultural-analysis/blob/master/maps/Northland_Deprivation.png)
 
+![](Northland_Deprivation.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
